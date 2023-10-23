@@ -1,0 +1,22 @@
+body{
+    background-color: aliceblue;
+}
+.profilee{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 105px;
+}
+.profile{
+    width: 200px;
+}
+.profilee h2{
+    font-style: oblique;
+}
+.profilee h4{
+    transform: translateY(-10px);
+}
+.biodata{
+    background-color: #A2D9FF;
+}
